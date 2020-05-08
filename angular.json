@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cliente-lembrete"
+    }
+  },
+  "defaultProject": "cliente-lembrete",
+  "cli": {
+    "analytics": "327ec469-9a84-4f5b-b384-06c321fd0b80"
+  }
 }
